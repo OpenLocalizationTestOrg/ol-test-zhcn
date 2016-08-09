@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "ad127a81500c67327bb8368e83c87457115a6d9c",
-  "LastTranslatedCommit": "9781ed6cb4c78aec25f02f78eb2a84fe01072cae",
+  "LastTranslatedCommit": "2f143fed8598807b746e1762fbe7ba30213664dc",
   "Items": {
     "c8612ece5848fe0e758c076dc6fbd0c2e07ff729": {
       "FileHash": "c8612ece5848fe0e758c076dc6fbd0c2e07ff729",
@@ -2420,9 +2420,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-08-09T11:01:34.6786781Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: usn3pcpl.fsh is different with handoff file name: b75a90e3-20b0-4ce2-bd31-536aae1a76ea.1c21683b1c144ffe5b1b701b654756cf9c79bc65.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: usn3pcpl.fsh is different with handoff file name: b75a90e3-20b0-4ce2-bd31-536aae1a76ea.1c21683b1c144ffe5b1b701b654756cf9c79bc65.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
