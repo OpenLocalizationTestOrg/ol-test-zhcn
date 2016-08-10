@@ -5,20 +5,17 @@
  -------- | ----- 
  Total Files | 2
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/c0efcd8665487e195f52e3fb0c685a62742de520/e2e/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md) | HandedOffSuccess | [Details](#59c6f24b1a95d271a10051dc40949f359a4c431c1)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -29,6 +26,9 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/c0efcd8665487e195f52e3fb0c685a62742de520/e2e/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md) | InSyncHandedBackSuccess | [Details](#59c6f24b1a95d271a10051dc40949f359a4c431c1)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -49,15 +49,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='59c6f24b1a95d271a10051dc40949f359a4c431c1'></a> Source: [e2e\f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/c0efcd8665487e195f52e3fb0c685a62742de520/e2e/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md](https://github.com/OpenLocalizationTestOrg/ol-test-zhcn/blob/3180be78f7f7e076f1bff7d6532a5f70e8d03daa/e2e/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.md)
 * Handoff File: [f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.f51d014cdb5fb093df4b0480c0b2b8a6007834cc.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/065ce7e06fbba9da98191e1411c5ab5fd4e48e4d/ol-handoff/OpenLocalizationTestOrg/ol-test-zhcn/ci/ht/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.f51d014cdb5fb093df4b0480c0b2b8a6007834cc.zh-cn.xlf)
 * Handoff Datetime: 2016-08-10 09:08:09
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.f51d014cdb5fb093df4b0480c0b2b8a6007834cc.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/7596a49f067cc1c2b74bae37d4058d3e45bc3ee8/ol-handback/OpenLocalizationTestOrg/ol-test-zhcn/ci/ht/f17ddbf2-77c7-4772-a34d-2d5651f0f2a9.f51d014cdb5fb093df4b0480c0b2b8a6007834cc.zh-cn.xlf)
+* Handback Datetime: 2016-08-10 09:08:36
 * [Back to Top](#report-top)
 
 
