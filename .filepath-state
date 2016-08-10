@@ -1,5 +1,48 @@
 {
-  "ac5610e14e35343352c9459b3e335b10c5a31637": [
-    "e2e\\test-content-1.md"
+  "9b8400fd4d0a4dbc3f7f1ebfa42e46172e7db0b0": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "41f7cab83f7b51e3159f662c2490c3182ba5f717": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "56ef05a7b3b9002af57b833e2ef9569b349e11ca": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "b83bbb8324eca87692b703a4a26be2fd8bd08d1a": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "f8d77543f88b5df65cd15f86c455bb53f6b5d5ce": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "7f78f682a0716d50635dff237490e62228fcc72a": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "69b82be18e89443992cd6286b096938cdefa6fd4": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "89fd256236748802aee36857162c56332a50731b": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "fbaa6fc76890d679304e7d40f00fa3e252c50669": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "d128c28732b3c68a5e9bdd738b850e73be124a71": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "8973c2c6beebec3b1cfdd1c299fe4ecf526393a0": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "be4f6fc5ea18eb7ff792d6228d55436b3c831fe3": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
+  ],
+  "9f5fea1a009732a3a9eabea52cccb546aaa46540": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
   ]
 }
