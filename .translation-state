@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "0fa78e2d5cffc1cd1e1b6cacea387fab8cedd971",
+  "LastProcessedCommit": "c29074613702cd59e5ca7a56d2dbe1c1b128068c",
   "LastTranslatedCommit": "cb3eb36ece48d6101b6a7d34a7947e0fda25a789",
   "Items": {
     "c8612ece5848fe0e758c076dc6fbd0c2e07ff729": {
@@ -8776,6 +8776,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-08-10T01:03:35.7424808Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "c2d6101b0061de2964e984cccaae4b7fcf8f6bf8": {
+      "FileHash": "c2d6101b0061de2964e984cccaae4b7fcf8f6bf8",
+      "SourceFileCommit": "c29074613702cd59e5ca7a56d2dbe1c1b128068c",
+      "SourceFilePath": "e2e\\7cc07a7a-fd1f-4b2d-9af1-67f341a76145.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\7cc07a7a-fd1f-4b2d-9af1-67f341a76145.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test-zhcn\\ci\\ht\\7cc07a7a-fd1f-4b2d-9af1-67f341a76145.51b7c6ba291f78bdd5bd0fcd5981d8027def2f3a.zh-cn.xlf",
+      "HandoffFileCommit": "4f7660413d3790ca2e8feea0441770e104c6215a",
+      "HandoffDateTime": "2016-08-10T01:05:07.1821902Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
