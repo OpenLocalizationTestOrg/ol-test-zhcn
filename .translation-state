@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "7e741433516029fc5781ab5345f2ad37bdc1031c",
-  "LastTranslatedCommit": "489aaf59e1460840f964017cc334d9c5f28db393",
+  "LastTranslatedCommit": "8c7720dd40a6204e83597ab066b99eaa5bf3734f",
   "Items": {
     "c8612ece5848fe0e758c076dc6fbd0c2e07ff729": {
       "FileHash": "c8612ece5848fe0e758c076dc6fbd0c2e07ff729",
@@ -8588,9 +8588,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-08-10T00:57:23.8701904Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: xp5dlnnz.quc is different with handoff file name: 5e5fef9e-6a9f-4c00-9205-a76cadc0ac69.3079ba4c7bb607db3085d62ca1929a6169149bcf.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: xp5dlnnz.quc is different with handoff file name: 5e5fef9e-6a9f-4c00-9205-a76cadc0ac69.3079ba4c7bb607db3085d62ca1929a6169149bcf.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
