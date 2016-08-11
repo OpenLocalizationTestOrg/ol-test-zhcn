@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "140ab8aeecfdbf000a2bc6f1fe42af99a5160333",
-  "LastTranslatedCommit": "83847236990d5bbd78cc84e36943b98a15f98687",
+  "LastTranslatedCommit": "5bf403cf91fc6a70838bb69867d467e89d8a3c1c",
   "Items": {
     "c8612ece5848fe0e758c076dc6fbd0c2e07ff729": {
       "FileHash": "c8612ece5848fe0e758c076dc6fbd0c2e07ff729",
@@ -14756,9 +14756,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-08-11T02:58:28.0583672Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 4srbw1ab.3wa is different with handoff file name: ee0bbc01-3c0d-4528-9ecf-19cc5d3af0a5.01e5b78349de00144d4d45f0f39e804e9a8c1782.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 4srbw1ab.3wa is different with handoff file name: ee0bbc01-3c0d-4528-9ecf-19cc5d3af0a5.01e5b78349de00144d4d45f0f39e804e9a8c1782.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
