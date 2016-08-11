@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\3124011a-6a42-4981-97c3-6fd5390d6ed9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/eb9eee5db0be85d8bdf510de41d4a59f427edb9d/e2e/3124011a-6a42-4981-97c3-6fd5390d6ed9.md) | HandedOffSuccess | [Details](#4ea8396dbe387e3b45c746ef101e26ce91a3131e2)
+ [e2e\3124011a-6a42-4981-97c3-6fd5390d6ed9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/23244f56b446692b009aba1e2905b7a444425eab/e2e/3124011a-6a42-4981-97c3-6fd5390d6ed9.md) | HandedOffSuccess | [Details](#e6e8e852f225495a1d793587ce47c70ead1aa4252)
 
 ## Item Details
-##### <a name='4ea8396dbe387e3b45c746ef101e26ce91a3131e2'></a> Source: [e2e\3124011a-6a42-4981-97c3-6fd5390d6ed9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/eb9eee5db0be85d8bdf510de41d4a59f427edb9d/e2e/3124011a-6a42-4981-97c3-6fd5390d6ed9.md)
+##### <a name='e6e8e852f225495a1d793587ce47c70ead1aa4252'></a> Source: [e2e\3124011a-6a42-4981-97c3-6fd5390d6ed9.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/23244f56b446692b009aba1e2905b7a444425eab/e2e/3124011a-6a42-4981-97c3-6fd5390d6ed9.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [3124011a-6a42-4981-97c3-6fd5390d6ed9.d3a309666cf1dca889d8131e3ea2df3b66626064.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/c8e94d2fb41621a16759888123a5e4b08a77b070/ol-handoff/OpenLocalizationTestOrg/ol-test-zhcn/ci/ht/3124011a-6a42-4981-97c3-6fd5390d6ed9.d3a309666cf1dca889d8131e3ea2df3b66626064.zh-cn.xlf)
-* Handoff Datetime: 2016-08-11 02:50:42
+* Handoff File: [3124011a-6a42-4981-97c3-6fd5390d6ed9.d3a309666cf1dca889d8131e3ea2df3b66626064.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/d267783d8bb2c15189e2fb0a091f4ad7ee34f459/ol-handoff/OpenLocalizationTestOrg/ol-test-zhcn/ci/ht/3124011a-6a42-4981-97c3-6fd5390d6ed9.d3a309666cf1dca889d8131e3ea2df3b66626064.zh-cn.xlf)
+* Handoff Datetime: 2016-08-11 02:51:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
