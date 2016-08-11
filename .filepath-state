@@ -1,39 +1,4 @@
 {
-  "d77929b1e505e4b071157b23a610c686178a5644": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "90ea7778712e8f89c1ed98dfbcc2688506c32c07": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "9b8400fd4d0a4dbc3f7f1ebfa42e46172e7db0b0": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "41f7cab83f7b51e3159f662c2490c3182ba5f717": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "56ef05a7b3b9002af57b833e2ef9569b349e11ca": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "21359c8a76ed160a8f613126abf110a6b1ace88a": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "cf5e9dfd8a7f6ff2ba3e4dca194bb59106006ed6": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "b83bbb8324eca87692b703a4a26be2fd8bd08d1a": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "f8d77543f88b5df65cd15f86c455bb53f6b5d5ce": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "7f78f682a0716d50635dff237490e62228fcc72a": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
   "258ab036f801c9b82de9571a24c1ffd18dac7e81": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
@@ -41,6 +6,9 @@
   "dadd73bd97fb76af7cbd56ae34d17a018ceefa6b": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "69fbd0824e81791217b066d4939f0c4508e6b1f7": [
+    "e2e\\file_no_deleted_single_path.md"
   ],
   "3a7f7ece5e2cb7c10ce9db5ceade7da1a6a5accd": [
     "e2e\\file_no_deleted_single_path.md"
@@ -52,11 +20,12 @@
     "e2e\\file_no_deleted_single_path.md"
   ],
   "4fc200da6e9f29a9c955a8603e31703f77f126f7": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
   ],
   "d60d3a92b977e98c7c453643c3e3c308481c546e": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
+  ],
+  "1a06ddf1628d3c3ff52be50845ca31a5305a53e1": [
+    "e2e\\newfile.a0e5e635-942b-43b0-a81d-3635febbb8da.md"
   ]
 }
